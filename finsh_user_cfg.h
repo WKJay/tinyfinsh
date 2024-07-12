@@ -1,0 +1,8 @@
+#ifndef FINSH_USER_CFG
+#define FINSH_USER_CFG
+
+#define FINSH_USING_HISTORY
+// #define FINSH_USING_AUTH
+#define FINSH_USING_DESCRIPTION
+
+#endif // FINSH_USER_CFG
